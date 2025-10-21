@@ -33,5 +33,5 @@ Power BI: Visualizing the data via interactive dashboards
 
 
 #
-Here is the sample Screenshot of the project where all the youtubers datas has been shown in the dashboard and analysis has been done 
+Here is the sample Screenshot of the project where all the youtubers datas has been shown in the dashboard and analysis has been done (You can also find it inside Assets/Images)
 <img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/efaa5bf7-436b-4793-94be-1da61b5fd345" />
