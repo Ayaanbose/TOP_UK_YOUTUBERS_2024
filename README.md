@@ -7,7 +7,8 @@ Objective is to create a dashboard that provide insights of the top UK YouTubers
 -	total views
 -	total videos
 -	engagement metrics
-- This dashboard should allow to identify the top performing channels based on metrics like subscriber base and average views which in return will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
+
+This dashboard should allow to identify the top performing channels based on metrics like subscriber base and average views which in return will help the marketing team make informed decisions about which YouTubers to collaborate with for their marketing campaigns.
 
 ## TOOLS USED:
 
